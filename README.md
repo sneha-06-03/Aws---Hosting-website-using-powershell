@@ -38,4 +38,4 @@ sudo vi index.html
 ```
 ### Add your website's HTML content and save the file.
 
-## YAY! Your link or IP adress of your instance will now work.
+## Your link or IP adress of your instance will now work.
